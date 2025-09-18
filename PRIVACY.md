@@ -4,7 +4,7 @@
 
 ## Overview
 
-Guide To Jesus is designed with your privacy in mind. We believe in transparency and want you to understand exactly how your data is used.
+Guide To Jesus is designed to be the most private Bible app.
 
 ## No Data Collected
 
